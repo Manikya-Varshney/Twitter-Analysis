@@ -1,0 +1,3 @@
+#!/home/manikya_varshney/Documents/Python/Yale/Twitter_Analysis/bin/python3
+from numba.pycc import main
+main()
